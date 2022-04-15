@@ -2,24 +2,26 @@
 
 ### Todo
 
-- [x] Problem 0
-- [x] Problem 1
-- Problem 2
-   - [x] Problem 2.1
-   - [x] Problem 2.2
-   - [ ] Problem 2.3
-- Problem 3
-   - [x] Problem 3.1
-   - [ ] Problem 3.2
-- [x] Problem 4
-- [x] Problem 5
-- [ ] Problem 6
-- [ ] Problem 7
-- [ ] Problem 8
-- [x] Problem 9
-- [ ] Problem 10
-- [ ] Problem 11
-- [ ] Problem 12
+- Python
+   - [x] Problem 1
+   - Problem 2
+      - [x] Problem 2.1
+      - [x] Problem 2.2
+      - [ ] Problem 2.3
+   - Problem 3
+      - [x] Problem 3.1
+      - [x] Problem 3.2
+   - [x] Problem 4
+- Numpy
+   - [x] Problem 5
+   - [ ] Problem 6
+   - [x] Problem 7
+   - [ ] Problem 8
+- Pandas
+   - [x] Problem 9
+   - [ ] Problem 10
+   - [ ] Problem 11
+   - [ ] Problem 12
 
 ### 📢 ประกาศล่าสุด 📢
 
