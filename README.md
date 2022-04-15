@@ -7,7 +7,7 @@
    - Problem 2
       - [x] Problem 2.1
       - [x] Problem 2.2
-      - [ ] Problem 2.3
+      - [x] Problem 2.3
    - Problem 3
       - [x] Problem 3.1
       - [x] Problem 3.2
