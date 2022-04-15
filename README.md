@@ -16,12 +16,12 @@
    - [x] Problem 5
    - [ ] Problem 6
    - [x] Problem 7
-   - [ ] Problem 8
+   - [x] Problem 8
 - Pandas
    - [x] Problem 9
-   - [ ] Problem 10
-   - [ ] Problem 11
-   - [ ] Problem 12
+   - [x] Problem 10
+   - [x] Problem 11
+   - [x] Problem 12
 
 ### 📢 ประกาศล่าสุด 📢
 
