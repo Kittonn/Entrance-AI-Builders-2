@@ -14,7 +14,7 @@
    - [x] Problem 4
 - Numpy
    - [x] Problem 5
-   - [ ] Problem 6
+   - [x] Problem 6
    - [x] Problem 7
    - [x] Problem 8
 - Pandas
